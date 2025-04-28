@@ -1,4 +1,3 @@
-#!/bin/bash
 
 echo "Enter first string:"
 read str1
